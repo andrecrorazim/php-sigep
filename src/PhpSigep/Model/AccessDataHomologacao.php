@@ -15,9 +15,9 @@ class AccessDataHomologacao extends AccessData
             array(
                 'usuario'           => 'sigep',
                 'senha'             => 'n5f9t8',
-                'codAdministrativo' => '17000190',
-                'numeroContrato'    => '9992157880',
-                'cartaoPostagem'    => '0067599079',
+                'codAdministrativo' => '10121692',
+                'numeroContrato'    => '9912254529',
+                'cartaoPostagem'    => '65620658',
                 'cnpjEmpresa'       => '34028316000103', // Obtido no método 'buscaCliente'.
                 'anoContrato'       => null, // Não consta no manual.
                 'diretoria'         => new Diretoria(Diretoria::DIRETORIA_DR_BRASILIA), // Obtido no método 'buscaCliente'.

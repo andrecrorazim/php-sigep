@@ -94,7 +94,7 @@ $postagem = new \PhpSigep\Model\SolicitarPostagemReversa();
 $postagem->setAccessData($accessDataParaAmbienteDeHomologacao);
 $postagem->setDestinatario($destinatario);
 $postagem->setColetas_solicitadas($coletasSolicitadas);
-$postagem->setContrato('9992157880');
+$postagem->setContrato('9912254529');
 $postagem->setCodigo_servico('04677');
 
 $phpSigep = new \PhpSigep\Services\SoapClient\Real();
